@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "coverPhoto": "https://i.ibb.co.com/5h3jchD/1.jpg",
+      "authorName": "John Doe",
+      "authorImage": "https://i.ibb.co.com/SwGwcqN/boy1.png",
+      "date": "2023-11-22",
+      "readingTime": "5",
+      "hashtags": ["#technology", "#programming", "#python"]
+    },
+    {
+      "id": 2,
+      "coverPhoto": "https://i.ibb.co.com/FJJxXbh/2.png",
+      "authorName": "Jane Smith",
+      "authorImage": "https://i.ibb.co.com/nmKfSGf/boy2.jpg",
+      "date": "2023-12-15",
+      "readingTime": "7",
+      "hashtags": ["#design", "#ux", "#ui"]
+    },
+    {
+      "id": 3,
+      "coverPhoto": "https://i.ibb.co.com/FY6pGWm/3.png",
+      "authorName": "Michael Johnson",
+      "authorImage": "https://i.ibb.co.com/pvYVgM9/girl1.jpg",
+      "date": "2024-01-08",
+      "readingTime": "10",
+      "hashtags": ["#marketing", "#digital", "#socialmedia"]
+    },
+    {
+      "id": 4,
+      "coverPhoto": "https://i.ibb.co.com/4Kd9vcW/4.jpg",
+      "authorName": "Emily Brown",
+      "authorImage": "https://i.ibb.co.com/mB7GPMF/girl2.jpg",
+      "date": "2024-02-29",
+      "readingTime": "3",
+      "hashtags": ["#business", "#finance", "#economics"]
+    },
+    {
+      "id": 5,
+      "coverPhoto": "https://i.ibb.co.com/5h3jchD/1.jpg",
+      "authorName": "David Lee",
+      "authorImage": "https://i.ibb.co.com/7nT4S9L/profile.png",
+      "date": "2024-04-12",
+      "readingTime": "15",
+      "hashtags": ["#science", "#technology", "#ai"]
+    }
+  ]
